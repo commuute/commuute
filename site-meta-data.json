@@ -1,0 +1,9 @@
+{
+  "title": "qBlog",
+  "siteUrl": "https://qwerti.netlify.app",
+  "description": "Blog professionnel de qwerti.",
+  "home": {
+    "title": "",
+    "description": ""
+  }
+}
